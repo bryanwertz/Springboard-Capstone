@@ -1,0 +1,27 @@
+---
+title: "Springboard Capstone Proposal"
+output: html_document
+---
+
+### Examining Real Estate Pricing Data
+
+In support of completing the Introduction to Data Science course through Springboard, I am proposing a capstone project centered around home pricing data. In this project, I will rely primarily on the Zillow dataset provided for [this Kaggle competition](https://www.kaggle.com/c/zillow-prize-1).
+
+### Key Questions
+
+There are several key questions that I will initially target as I navigate this dataset, although I am sure other interesting paths will present themselves too. I will start by answering the following questions:
+
+
+1. For a given market, what is the typical time on the market for a home in that area?
+2. Does pricing your home below the average price in the area lead to a shorter time on the market? Conversely, does pricing your home higher than the average lead to a longer time to sell?
+3. Are there other factors that significantly influence the amount of time a house is on the market such as additional bedrooms, bathrooms, or other amenities?
+
+### Target Audience
+
+Answering the 3 questions above would be of great interest to any home owner who is about to sell. It would be especially important for someone who has not yet selected their new living space -- they will need to predict how long their current house would take to sell to appropriately plan their move.
+
+
+Other home owners will be interested in this data as well if there are amenities that can be added to speed up the sale process.
+
+
+Lastly, realtors should be aware of the impact of the list price because the longer the house is on the market, the longer they wait for their commission. A longer sale also likely means more work for the realtor with more time spent advertising and coordinating showings.
